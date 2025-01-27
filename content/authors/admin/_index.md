@@ -3,7 +3,7 @@
 title: Sally Aba Assifuah
 
 # Name pronunciation (optional)
-name_pronunciation: Sally Aba Assfuah
+name_pronunciation: Sally Aba Assifuah
 
 # Full name (for SEO)
 first_name: Shiung Wu
